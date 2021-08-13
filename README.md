@@ -2,6 +2,8 @@
 Generates very funny and hilarious yo mama jokes
 # Very important note
 This was made as a shitpost
+
+I am not affiliated with Brody Foxx
 # How to use
 Just run the python file with both "YoMamaSo.txt" and "She.txt" or it cannot generate hilaroius yo mama jokes.
 # How to add more very funny jokes
