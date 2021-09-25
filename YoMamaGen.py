@@ -1,6 +1,5 @@
 # HELLO YO MAMER FANS !Love yo mama? ? ?????make sure to like this viedo
 import random
-import time
 
 # "Yo Mama so" part (please put very good adjectives in YoMamaSo.txt)
 with open("YoMamaSo.txt", "r") as file:
